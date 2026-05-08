@@ -1,0 +1,10 @@
+{
+  "name": "connecthub-triage",
+  "version": "1.2.0",
+  "description": "Instantly triage ConnectHub customer complaints — classify urgency, detect intent, route to the correct team, and generate a ready-to-send agent response draft.",
+  "author": {
+    "name": "Rashadul NafiS Riyad"
+  },
+  "license": "MIT",
+  "keywords": ["customer-support", "triage", "complaint-handling", "telecom", "connecthub"]
+}
