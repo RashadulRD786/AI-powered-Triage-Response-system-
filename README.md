@@ -118,7 +118,7 @@ Subject: Urgent: Your Account Security — We're Acting Now
 **Or clone and install locally:**
 
 ```bash
-git clone https://github.com/rashadulnafisriyad/connecthub-triage.git
+git clone https://github.com/RashadulRD786/AI-powered-Triage-Response-system-.git
 /plugin install ./connecthub-triage
 ```
 
